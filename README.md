@@ -1,6 +1,7 @@
 https://guides.rubyonrails.org/getting_started.html
 
 `bin/rails server`
+rails server
 
 # README
 
