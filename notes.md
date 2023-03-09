@@ -31,4 +31,7 @@ rails db:migrate
 
 ### ADD stuff
 
+https://github.com/heartcombo/devise
+
 rails g migration add_user_id_to_friends user_id:integer:index
+rails db:migrate
